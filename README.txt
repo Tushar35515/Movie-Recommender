@@ -8,3 +8,5 @@ For Deployment I use Heroku in this project.
 
 
 Note:- I have not upload one file named "similarity.pkl" because the size of file is more than 100mb and Github only allow you to upload files within 100mb.
+
+Thank You!!!!
